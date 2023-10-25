@@ -3,7 +3,7 @@
 
 ## 📷 Screenshot
 <p>
-![Simulator Screenshot - iPhone 15 Pro - 2023-10-26 at 00 04 02](https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/7d760c09-119e-4984-9f6f-deef18f970e6)
+<img width="100" src="https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/7d760c09-119e-4984-9f6f-deef18f970e6">
 ![Simulator Screenshot - iPhone 15 Pro - 2023-10-26 at 00 04 11](https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/f3267958-3a64-406c-ab35-0d888117348c)
 ![Simulator Screenshot - iPhone 15 Pro - 2023-10-26 at 00 04 17](https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/cd9d4ec7-40a7-4d36-941c-fb1c512a4733)
 ![Simulator Screenshot - iPhone 15 Pro - 2023-10-26 at 00 04 31](https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/bec6ee30-bd33-424e-9120-ce2b4f19dcd5)
