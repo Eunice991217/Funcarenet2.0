@@ -1,5 +1,7 @@
 # Funcarenet2.0
 병원치료 이후 재활, 예방을 위한 환자들의 회복을 돕는 지역기반 플랫폼입니다. 
+(주) FionLabs 외주 (2023.03 ~ 2023.12) Code로, 소스코드 공개가 불가능합니다.
+Description Page입니다. 
 
 ## 📷 Screenshot
 <p>
