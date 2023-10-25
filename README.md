@@ -4,17 +4,17 @@
 ## 📷 Screenshot
 <p>
 <img width="100" src="https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/7d760c09-119e-4984-9f6f-deef18f970e6">
-![Simulator Screenshot - iPhone 15 Pro - 2023-10-26 at 00 04 11](https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/f3267958-3a64-406c-ab35-0d888117348c)
-![Simulator Screenshot - iPhone 15 Pro - 2023-10-26 at 00 04 17](https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/cd9d4ec7-40a7-4d36-941c-fb1c512a4733)
-![Simulator Screenshot - iPhone 15 Pro - 2023-10-26 at 00 04 31](https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/bec6ee30-bd33-424e-9120-ce2b4f19dcd5)
-![Simulator Screenshot - iPhone 15 Pro - 2023-10-26 at 00 04 40](https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/54b8b9ac-53e4-4aa0-ad23-86be1c64321b)
-![Simulator Screenshot - iPhone 15 Pro - 2023-10-26 at 00 05 03](https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/9970a695-e24f-40a4-9363-ab634a094462)
-![Simulator Screenshot - iPhone 15 Pro - 2023-10-26 at 00 05 17](https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/32778633-9122-4acd-acb2-964c2faa3fcf)
-![Simulator Screenshot - iPhone 15 Pro - 2023-10-26 at 00 05 50](https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/5d185931-1abe-4f93-bdc3-c5ee24aa920c)
-![Simulator Screenshot - iPhone 15 Pro - 2023-10-26 at 00 06 30](https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/f24e215a-1963-4838-b408-c037b7a694ef)
-![Simulator Screenshot - iPhone 15 Pro - 2023-10-26 at 00 06 34](https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/b9a31620-6731-4689-b646-1e87e6e1b115)
-![Simulator Screenshot - iPhone 15 Pro - 2023-10-26 at 00 06 49](https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/6dfae5b1-0c14-47a7-8cae-a344be597eae)
-![Simulator Screenshot - iPhone 15 Pro - 2023-10-26 at 00 24 56](https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/6ae74be5-1fe9-4c4c-8ce2-81e21d93644f)
+<img width="100" src="https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/f3267958-3a64-406c-ab35-0d888117348c">
+<img width="100" src="https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/cd9d4ec7-40a7-4d36-941c-fb1c512a4733">
+<img width="100" src="https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/bec6ee30-bd33-424e-9120-ce2b4f19dcd5">
+<img width="100" src="https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/54b8b9ac-53e4-4aa0-ad23-86be1c64321b">
+<img width="100" src="https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/9970a695-e24f-40a4-9363-ab634a094462">
+<img width="100" src="https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/32778633-9122-4acd-acb2-964c2faa3fcf">
+<img width="100" src="https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/5d185931-1abe-4f93-bdc3-c5ee24aa920c">
+<img width="100" src="https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/f24e215a-1963-4838-b408-c037b7a694ef">
+<img width="100" src="https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/b9a31620-6731-4689-b646-1e87e6e1b115">
+<img width="100" src="https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/6dfae5b1-0c14-47a7-8cae-a344be597eae">
+<img width="100" src="https://github.com/Eunice991217/Funcarenet2.0/assets/101406317/6ae74be5-1fe9-4c4c-8ce2-81e21d93644f">
 </p>
 
 ## 💡 Awareness of the problem
